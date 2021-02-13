@@ -1,8 +1,8 @@
-#### _* Review Blog *_ ####
+#### _Review Blog_ ####
 ## _* Project: Digital Aponte *_ ##
 ## _* Project Directors: Kris Minhae Choe and Eric Anderson *_ ##
 ## _* Project URL: http://aponte.hosting.nyu.edu/ *_ ##
-## _* Reviewed by:  Mahri Gran t *_ ##
+## _* Reviewed by:  Mahri Grant *_ ##
 ![Screenshot (3).png](https://github.com/mahrigrant/mahrigrant/blob/main/images/Screenshot%20(3).png)
 ## _* Summary *_ ##
 _Digital Aponte_ is a website that aims to show the work of José Antonio Aponte, a free man of color. The website shows the history of Aponte’s creative works, as well as his treatment by the Spanish. The website also highlights his lost “book of paintings” and the things that inspired him. Each tab included in the website explores Aponte’s artistic journey and allows the audience to interact and learn more about him and his vision. 
