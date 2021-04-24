@@ -1,4 +1,4 @@
-![canvaimage.png](https://mahrigrant.github.io/mahrigrant/images/canvaimage.png) 
+![grantpic.jpg](https://mahrigrant.github.io/mahrigrant/images/grantpic.jpg) 
 
 ## *Picking a Topic* ##
 
@@ -14,13 +14,13 @@ Once I started doing the Environmental Scan, which was the first step of my proj
 
 I really wanted to sell my project in the Grant Narrative. I emphasized the need for projects like mine, and all of the design features and technology that would be included. It was really important for me to find a really good mapping tool to use for my website, so that my project would look like something that is worthy of being sponsored. I quickly learned that  it was harder than I thought, and that a majority of them were not what I was looking for, and the others were extremely expensive and out of the realm of possibility for me. Once I found Caliper Maptitude I was happy to find a map creator that was less than half off my budget, and had all of the features I needed. I also really wanted to add a lot of color and design features that would capture the attention of users, so in my Grant Narrative, I wrote about wanting to use Canva, which is a great website for designing and adding special touches. Lastly, the quiz maker tool called Typeform was really useful, and had a lot of special effects to it that make it really fun for a children's website, and their free version was more than enough for what I needed.
 
-Picture
+![typeformimage.jpg](https://mahrigrant.github.io/mahrigrant/images/typeformimage.jpg)
 
 ## *Budget* ##
 
 In order to stay on budget, I had to rely on a lot of free versions of websites. A lot of research went into finding ones that were not only free, but actually good quality and worthwhile. At certain points I got frustrated, but I soon began to stumble upon websites that were free and more than what I thought I would be able to get at that range. My advice for anyone creating a Digital Humanities project would be to persevere and really look around, because there is always something out there that will work for you in your budget, you just have to find it.
 
-Picture
+![budgetimage.jpg](https://mahrigrant.github.io/mahrigrant/images/budgetimage.jpg)
 
 ## *Resume* ##
 
