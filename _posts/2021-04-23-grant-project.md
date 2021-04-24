@@ -8,7 +8,7 @@ I came up with the idea for my project while looking for a project to review for
 
 Once I started doing the Environmental Scan, which was the first step of my project, I realized that there really were not any projects that were like mine, as far as I could tell. My project was focused on creating a website where children can discover Virginia children’s book authors, take a book aptitude test, and find local libraries that may carry the books that they want. I also decided to include one digitized book for the children to be able to click through. I found several websites that had each aspect, but none that had them all together into one, like my project would be. These other websites were not digital humanities projects, so I am happy that my project would theoretically be adding something new to the world of Digital Humanities.  
 
-Picture
+![canvaimage.png](https://mahrigrant.github.io/mahrigrant/images/canvaimage.png)
 
 ## *Grant Narrative and Design* ## 
 
@@ -26,7 +26,7 @@ Picture
 
 Before talking about resumes in class, I thought mine was perfectly fine. I was wrong. It needs a lot of work, and it is a lot harder to fix it than what I thought. Yesterday, I found a new template that I really liked and thought it was going to be really easy to fix it. I was wrong again. It was hard to fit everything into one page, and into the sections that the template had. I am currently starting at the drawing board and will keep trying to fix it until it is perfect. I am glad that I realized this now, because I am applying for jobs soon, and it is important to have my resume perfect not only for this project, but for my future employers who will look at it extensively. 
 
-Picture
+![resumeimage2.jpg](https://mahrigrant.github.io/mahrigrant/images/resumeimage2.jpg)
 
 ## *Final Thoughts and Takeaways* ## 
 
