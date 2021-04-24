@@ -1,4 +1,4 @@
-![canvaimage.png](https://mahrigrant.github.io/mahrigrant/images/canvaimage.png 
+![canva image.png](https://mahrigrant.github.io/mahrigrant/images/canvaimage.png 
 
 ## *Picking a Topic* ##
 
