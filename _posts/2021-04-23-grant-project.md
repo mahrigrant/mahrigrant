@@ -20,7 +20,7 @@ I really wanted to sell my project in the Grant Narrative. I emphasized the need
 
 In order to stay on budget, I had to rely on a lot of free versions of websites. A lot of research went into finding ones that were not only free, but actually good quality and worthwhile. At certain points I got frustrated, but I soon began to stumble upon websites that were free and more than what I thought I would be able to get at that range. My advice for anyone creating a Digital Humanities project would be to persevere and really look around, because there is always something out there that will work for you in your budget, you just have to find it.
 
-![budgetimage.jpeg](https://mahrigrant.github.io/mahrigrant/images/budgetimage.jpeg)
+![budgetimage2.jpg](https://mahrigrant.github.io/mahrigrant/images/budgetimage2.jpg)
 
 ## *Resume* ##
 
